@@ -10,6 +10,7 @@ Train 28000(lambda=3.6, batch_size=170):
 |:---------:|:---------:|:---------------:|:-----------------:|
 | 99.86%  |  99.13%   |    98.85%       |99.12%           |
 
+Here is the model:   http://pan.baidu.com/s/1miietDm
 
 ## Reference
 https://github.com/wy1iu/sphereface
