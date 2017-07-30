@@ -4,11 +4,11 @@ I think the accurracy can still be further improved by carefully fine-tuning. Fe
 # Experiment Results
 Train 28000:
 |Original | With PCA | With mirror trick| With mirror trick and PCA |
-|---------|:---------:|---------------  |-----------------:|
+|---------|:---------:|:---------------:|-----------------:|
 | 99.86%  |  99.13%   |    98.85%       |99.12%           |
 
 
 ## Reference
 https://github.com/wy1iu/sphereface
-----------
+
 https://github.com/happynear/NormFace/blob/master/MirrorFace.md
