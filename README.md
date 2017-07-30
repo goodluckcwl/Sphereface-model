@@ -4,13 +4,15 @@ This model is trained on Webface and the accuracy on LFW is **99.18%**. I set la
 
 I think the performance can still be further improved by carefully fine-tuning. Feel free to use this model.
 # Experiment Results
-Train 28000(lambda=3.6, batch_size=170):
+Train 22000(lambda=3.6, batch_size=170):
 
 |Original | With PCA | With mirror trick| With mirror trick and PCA |
 |:---------:|:---------:|:---------------:|:-----------------:|
-| 98.88%  |  99.13%   |    98.98%       |99.18%           |
+| 98.88%  |  99.13%   |    98.98%       |**99.18%**           |
 
-Here is the model:   http://pan.baidu.com/s/1miietDm
+Here is the model:   https://pan.baidu.com/s/1pL0pmll
+
+**LFW** evluation code can be found in [https://github.com/happynear/FaceVerification]. 
 
 ## Reference
 https://github.com/wy1iu/sphereface
