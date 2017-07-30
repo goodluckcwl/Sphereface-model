@@ -6,7 +6,7 @@ I think the performance can still be further improved by carefully fine-tuning. 
 # Experiment Results
 Train 22000(lambda=3.6, batch_size=170).
 
-![Feature distribution](https://github.com/goodluckcwl/Sphereface-model/hist.jpg)
+![Feature distribution](https://github.com/goodluckcwl/Sphereface-model/raw/master/hist.jpg)
 
 
 |Original | With PCA | With mirror trick| With mirror trick and PCA |
