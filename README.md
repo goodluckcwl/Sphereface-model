@@ -4,7 +4,7 @@ This model is trained on Webface and the accuracy on LFW is **99.13%**. I set th
 
 I think the performance can still be further improved by carefully fine-tuning. Feel free to use this model.
 # Experiment Results
-Train 28000:
+Train 28000(lambda=3.6, batch_size=170):
 
 |Original | With PCA | With mirror trick| With mirror trick and PCA |
 |:---------:|:---------:|:---------------:|:-----------------:|
