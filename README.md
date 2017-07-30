@@ -19,6 +19,9 @@ Here is the model:   https://pan.baidu.com/s/1pL0pmll
 
 **LFW** evluation code can be found in [https://github.com/happynear/FaceVerification]. 
 
+# Update
+- Accuracy on LFW 99.18%
+
 ## Reference
 https://github.com/wy1iu/sphereface
 
