@@ -3,6 +3,7 @@ This is the pre-trained model of SphereFace : Deep Hypersphere Embedding for Fac
 I think the accurracy can still be further improved by carefully fine-tuning. Feel free to use this model.
 # Experiment Results
 Train 28000:
+
 |Original | With PCA | With mirror trick| With mirror trick and PCA |
 |---------|:---------:|:---------------:|-----------------:|
 | 99.86%  |  99.13%   |    98.85%       |99.12%           |
