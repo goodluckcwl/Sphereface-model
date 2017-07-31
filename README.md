@@ -11,7 +11,7 @@ Train 22000(lambda=3.6, batch_size=170).
 
 The distribution of features on LFW:
 
-![Feature distribution](https://github.com/goodluckcwl/Sphereface-model/raw/master/hist.jpg)
+![Feature distribution](https://github.com/goodluckcwl/Sphereface-model/raw/master/hist-cos.jpg)
 
 The roc curve:
 
