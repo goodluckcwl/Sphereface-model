@@ -1,7 +1,7 @@
 # Sphereface-model
 This is the pre-trained model of SphereFace : Deep Hypersphere Embedding for Face Recognition.
 This model is trained on Webface and the accuracy on LFW is **99.18%**. 
-- Trained on Webface with the default setting and only got an accuracy of 98.5%， which is much lower than the paper claimed(**~99.26%**). 
+- Training on Webface with the default setting only got an accuracy of 98.5%， which is much lower than the paper claimed(**~99.26%**). 
 - Fixed lambda = 5, trained 28000, and got an accuracy of 98.8%.
 - Decreased the lambda. Final accuracy is 99.18%.
 
