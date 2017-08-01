@@ -1,6 +1,6 @@
 # Sphereface-model
 This is the pre-trained model of SphereFace : Deep Hypersphere Embedding for Face Recognition.
-This model is trained on Webface and the accuracy on LFW is **99.18%**. 
+This model is trained on CASIA-Webface and the accuracy on LFW is **99.18%**. 
 - Training on Webface with the default setting only got an accuracy of 98.5%， which is much lower than the paper claimed(**~99.26%**). 
 - Fixed lambda = 5, kept on training, and got an accuracy of 98.8%.
 - Decreased the lambda. Final accuracy is 99.18%.
@@ -16,6 +16,8 @@ The distribution of features on LFW:
 The roc curve:
 
 ![ROC](https://github.com/goodluckcwl/Sphereface-model/raw/master/roc.jpg)
+
+Accuracy on LFW:
 
 |Original | With PCA | With mirror trick| With mirror trick and PCA |
 |:---------:|:---------:|:---------------:|:-----------------:|
